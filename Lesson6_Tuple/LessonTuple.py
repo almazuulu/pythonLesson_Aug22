@@ -28,7 +28,6 @@ tupleSingle = (23,)
 print(type(tupleSingle))
 print(tupleSingle)
 
-
 #Операции
 myTuple3 = 23,4,5,'Hello', 'a', 23.4, True, False
 print(len(myTuple3))
