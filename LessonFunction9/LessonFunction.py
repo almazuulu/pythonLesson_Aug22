@@ -78,7 +78,6 @@ findChetNumb(myTuple)
 findChetNumb(mySet)
 findChetNumb(myDictOne.values())
 
-
 # # findFactorial(num)
 # num = int(input('Введите число для нах-ия факториала: '))
 num = 6
