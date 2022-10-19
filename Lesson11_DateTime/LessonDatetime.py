@@ -45,3 +45,5 @@ daysLeft = deadline - now
 
 nowBishkek = datetime.datetime.now(pytz.timezone('Asia/Tbilisi'))
 print(nowBishkek)
+
+
